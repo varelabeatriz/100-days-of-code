@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 15, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started a new react-native challenge, using the [OMDb API](http://www.omdbapi.com/). 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** My first time trying Typescript, struggled a little trying to figure out how it works.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Movie App](https://github.com/varelabeatriz/desafio-mestres-da-web)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 16, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started to style my app with styled-components and to program the search bar - which is still not working.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Tried to switch back to javascript, but it woudn't work. For a while I thought my project would never work again. Fortunately, it did. But I'm still struggling with Typescript.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Movie App](https://github.com/varelabeatriz/desafio-mestres-da-web)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
