@@ -16,6 +16,13 @@
 
 **Link to work:** [Movie App](https://github.com/varelabeatriz/desafio-mestres-da-web)
 
+### Day 3: February 17, 2021
+
+**Today's Progress**: Fixed some bugs on the Movie App, but got stuck on some type errors. Tomorrow I will try to fix what's wrong on my configs so I can start over with just Javascript and move on to another project.
+
+**Thoughts**: I'm not ready for typescript, but now my computer won't run any react native without it.
+
+**Link to work:** [Movie App](https://github.com/varelabeatriz/desafio-mestres-da-web)
 
 
 
