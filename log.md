@@ -24,5 +24,13 @@
 
 **Link to work:** [Movie App](https://github.com/varelabeatriz/desafio-mestres-da-web)
 
+### Day 4: February 18, 2021
+
+**Today's Progress**: Could't find what's not letting me run react-native apps. But I started a fun new project: the Love Calculator. I'm not using any API, just calculating the love percentage based on the number of letters and whether this number is even or not.
+
+**Thoughts**: I used react hooks and could understand 100% of what is happening
+
+**Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator)
+
 
 
