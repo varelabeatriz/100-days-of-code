@@ -32,5 +32,13 @@
 
 **Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator)
 
+### Day 5: February 19, 2021
+
+**Today's Progress**: Added images and some styles to the Love Calculator.
+
+**Thoughts**: Still need to improve the logic behind it.
+
+**Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator)
+
 
 
