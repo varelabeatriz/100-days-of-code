@@ -40,5 +40,13 @@
 
 **Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator)
 
+### Day 6: February 20, 2021
+
+**Today's Progress**: Fixed the button to only display the result when clicked. I have also found a new and better logic and started to implemet it. Fixed some bugs on the styles.
+
+**Thoughts**: Now need to find out how to make it work the way I want it.
+
+**Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator)
+
 
 
