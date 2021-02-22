@@ -48,5 +48,20 @@
 
 **Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator)
 
+### Day 7: February 21, 2021
+
+**Today's Progress**: I made some progress implementing the new logic.
+
+**Thoughts**: Still not working properly...
+
+**Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator)
+
+### Day 8: February 22, 2021
+
+**Today's Progress**: I made some more progress implementing the new logic and started the NLW project.
+
+**Thoughts**: The Love Calculator still needs some improvements.
+
+**Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator) and [NLW#4](https://github.com/varelabeatriz/NLW-4).
 
 
