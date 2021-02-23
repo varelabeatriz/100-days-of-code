@@ -64,4 +64,12 @@
 
 **Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator) and [NLW#4](https://github.com/varelabeatriz/NLW-4).
 
+### Day 9: February 23, 2021
+
+**Today's Progress**: Bit of a lazy day, I have only worked in the NLW project.
+
+**Thoughts**: NLW is getting easier each time I do it.
+
+**Link to work:** [NLW#4](https://github.com/varelabeatriz/NLW-4).
+
 
