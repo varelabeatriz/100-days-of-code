@@ -72,4 +72,12 @@
 
 **Link to work:** [NLW#4](https://github.com/varelabeatriz/NLW-4).
 
+### Day 10: February 24, 2021
+
+**Today's Progress**: I have only worked in the NLW project, but it had a lot of new content today.
+
+**Thoughts**: I may do something to one of my other projects later...
+
+**Link to work:** [NLW#4](https://github.com/varelabeatriz/NLW-4).
+
 
