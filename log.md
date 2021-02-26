@@ -62,7 +62,7 @@
 
 **Thoughts**: The Love Calculator still needs some improvements.
 
-**Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator) and [NLW#4](https://github.com/varelabeatriz/NLW-4).
+**Link to work:** [Love Calculator](https://github.com/varelabeatriz/LoveCalculator) and [move.it](https://github.com/varelabeatriz/move.it).
 
 ### Day 9: February 23, 2021
 
@@ -70,7 +70,7 @@
 
 **Thoughts**: NLW is getting easier each time I do it.
 
-**Link to work:** [NLW#4](https://github.com/varelabeatriz/NLW-4).
+**Link to work:** [move.it](https://github.com/varelabeatriz/move.it).
 
 ### Day 10: February 24, 2021
 
@@ -78,6 +78,22 @@
 
 **Thoughts**: I may do something to one of my other projects later...
 
-**Link to work:** [NLW#4](https://github.com/varelabeatriz/NLW-4).
+**Link to work:** [move.it](https://github.com/varelabeatriz/move.it).
+
+### Day 11: February 25, 2021
+
+**Today's Progress**: First time using Context API.
+
+**Thoughts**: I want to study more about it and try to use it in future projects.
+
+**Link to work:** [move.it](https://github.com/varelabeatriz/move.it).
+
+### Day 12: February 26, 2021
+
+**Today's Progress**: Finished the NLW project.
+
+**Thoughts**: I am very happy with the Read.me file I created for this project.
+
+**Link to work:** [move.it](https://github.com/varelabeatriz/move.it).
 
 
