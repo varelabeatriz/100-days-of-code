@@ -96,4 +96,12 @@
 
 **Link to work:** [move.it](https://github.com/varelabeatriz/move.it).
 
+### Day 13: February 27, 2021
+
+**Today's Progress**: Started a new food recipes app, this time with React.js and using the [Edamam](https://www.edamam.com/) API. Today I have connected to the API and created the header component.
+
+**Thoughts**: I think this one will be a quick one. Still want to work on the LoveCalculator...
+
+**Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
+
 
