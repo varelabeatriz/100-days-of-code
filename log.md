@@ -104,4 +104,20 @@
 
 **Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
 
+### Day 14: February 28, 2021
+
+**Today's Progress**: I have worked on the search bar of the cooking app.
+
+**Thoughts**: Found out I will need to use context API or redux to get the api information to different components.
+
+**Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
+
+### Day 15: March 1, 2021
+
+**Today's Progress**: Today I have created a new file to experiment with the context API before using it in my cooking project.
+
+**Thoughts**: Still a little confused with it...
+
+**Link to work:** [Context-API-Exercise](https://github.com/varelabeatriz/Context-API-Exercise).
+
 
