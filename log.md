@@ -120,4 +120,12 @@
 
 **Link to work:** [Context-API-Exercise](https://github.com/varelabeatriz/Context-API-Exercise).
 
+### Day 16: March 2, 2021
+
+**Today's Progress**: Succesfully applied the context api to my cooking app. Now the results from the API can be shared with any component.
+
+**Thoughts**: I'm very happy that it worked! I wasn't expecting much from it :)
+
+**Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
+
 
