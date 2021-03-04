@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 1
 
 ### Day 1: February 15, 2021
 
@@ -125,6 +125,22 @@
 **Today's Progress**: Succesfully applied the context api to my cooking app. Now the results from the API can be shared with any component.
 
 **Thoughts**: I'm very happy that it worked! I wasn't expecting much from it :)
+
+**Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
+
+### Day 17: March 3, 2021
+
+**Today's Progress**: Rendered the recipe's title and images from the API
+
+**Thoughts**: It's getting easier to get data from API's.
+
+**Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
+
+### Day 18: March 4, 2021
+
+**Today's Progress**: Styled the results and wrote the READ.ME file.
+
+**Thoughts**: I'm very happy with the end results.
 
 **Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
 
