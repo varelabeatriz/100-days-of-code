@@ -144,4 +144,12 @@
 
 **Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
 
+### Day 19: March 5, 2021
+
+**Today's Progress**: Now the interface is responsive.
+
+**Thoughts**: The home page image is still a little out of place deppending on the screen size. I need to work on that, but I'm too tired today :(
+
+**Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
+
 
