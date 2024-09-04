@@ -152,4 +152,12 @@
 
 **Link to work:** [that.meal](https://github.com/varelabeatriz/that.meal).
 
+### Day 20: September 4, 2024
+
+**Today's Progress**: Leetcode - Merge Sorted Array, using JavaScript.
+
+**Thoughts**: Is it still valid if I skip 3 years? I missed something to keep track of my studies and keep me motivated. I plan on doing more Leetcode, still not sure if it's worth uploading it though. Updating this file seems easier and more doable.
+
+**Link to work:** [Leetcode submission](https://leetcode.com/submissions/detail/1379242330/)
+
 
