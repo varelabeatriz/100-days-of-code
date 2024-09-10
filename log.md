@@ -160,4 +160,12 @@
 
 **Link to work:** [Leetcode submission](https://leetcode.com/submissions/detail/1379242330/)
 
+### Days 21, 22 & 23: September 5, 6 and 9, 2024
+
+**Today's Progress**: Leetcode - Roman to Integer, Two Sum, Valid Parentheses, etc.
+
+**Thoughts**: Got really caught up in solving leetcode problems. Obviously skipped the weekend because I still have a life :)
+
+**Link to work:** [Leetcode submission](https://leetcode.com/u/beatrizsvarela/)
+
 
